@@ -22,3 +22,4 @@ with open('./data/f.txt', 'w') as f_obj:
     f_obj.write('hello world')
 
 print(os.path.basename('./data/f.txt'))
+
